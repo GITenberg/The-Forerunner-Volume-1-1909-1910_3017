@@ -1,5 +1,5 @@
 _repo: The-Forerunner-Volume-1-1909-1910_3017
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -12,7 +12,12 @@ contributor:
       gutenberg_agent_id: '27'
       url: http://www.gutenberg.org/2009/agents/27
       wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3017#The-Forerunner-Volume-1-1909-1910
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
 identifiers:
