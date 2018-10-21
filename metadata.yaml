@@ -1,5 +1,5 @@
 _repo: The-Forerunner-Volume-1-1909-1910_3017
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -29,5 +29,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Women -- Periodicals'
 - !lcc 'HQ'
+- GITenberg
 title: The Forerunner, Volume 1 (1909-1910)
 url: http://www.gutenberg.org/ebooks/3017
